@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TFG-Smartwatch</string>
+    <string name="accessibility_service_description">Servicio de accesibilidad TFG-Smartwatch</string>
+</resources>
